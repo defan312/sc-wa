@@ -29,7 +29,7 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/AlyaaXd/R-Txyz-Botz
+> git clone https://github.com/defan312/sc-wa.git
 > cd R-Txyz-Botz
 > npm i
 > node run.js
